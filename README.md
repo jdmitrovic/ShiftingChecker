@@ -2,7 +2,7 @@
 
 ShiftingChecker is a Clang Static Analyzer checker which checks for improper shifting: shifting by a negative value or by a value too large.
 
-## Instalation
+## Installation
 
 1. Build [LLVM](https://github.com/llvm/llvm-project) following the instructions from the Github page. (**NOTE**: Over 8GiB of RAM *highly* recommended).
 2. Copy `ShiftingChecker.cpp` to the `llvm-project/clang/lib/StaticAnalyzer/Checkers` folder.
