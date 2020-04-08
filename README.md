@@ -1,4 +1,4 @@
-ShiftingChecker
+# ShiftingChecker
 
 ShiftingChecker is a Clang Static Analyzer checker which checks for improper shifting: shifting by a negative value or by a value too large.
 
